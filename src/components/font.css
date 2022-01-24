@@ -1,44 +1,16 @@
 @font-face {
-    font-family: "EE-OBM";
-    src: local("EE-OBM"), url("../fonts/ee-obm-icons.ttf") format("truetype");
-  }
-  @font-face {
-    font-family: "Nobblee-Light";
-    src: local("Nobblee-Light"),
-      url("../fonts/nobblee_light.ttf") format("truetype");
-  }
-  @font-face {
-    font-family: "Nobblee-Regular";
-    src: local("Nobblee-Regular"),
-      url("../fonts/nobblee_regular.ttf") format("truetype");
-  }
-  @font-face {
-    font-family: "Rubrik-Regular";
-    src: local("Rubrik-Regular"),
-      url("../fonts/rubrik_regular.ttf") format("truetype");
-  }
-  @font-face {
-    font-family: "Rubrik-Medium";
-    src: local("Rubrik-Medium"),
-      url("../fonts/rubrik_semibold.ttf") format("truetype");
-  }
-
-  @font-face {
-    font-family: "BT-Icons";
-    src: local("BT-Icons"), url("../fonts/BT/bt-mm-icons.ttf") format("truetype");
-  }
-  @font-face {
-    font-family: "bt-bold";
-    src: local("bt-bold"),
-      url("../fonts/bt/btfont_bd.ttf") format("truetype");
-  }
-  @font-face {
-    font-family: "bt-light";
-    src: local("bt-light"),
-      url("../fonts/bt/btfont_lt.ttf") format("truetype");
-  }
-  @font-face {
-    font-family: "bt-regular";
-    src: local("bt-regular"),
-      url("../fonts/BT/btfont_rg.ttf") format("truetype");
-  }
+  font-family: "BT-Icons";
+  src: local("BT-Icons"), url("../fonts/BT/bt-mm-icons.ttf") format("truetype");
+}
+@font-face {
+  font-family: "bt-bold";
+  src: local("bt-bold"), url("../fonts/bt/btfont_bd.ttf") format("truetype");
+}
+@font-face {
+  font-family: "bt-light";
+  src: local("bt-light"), url("../fonts/bt/btfont_lt.ttf") format("truetype");
+}
+@font-face {
+  font-family: "bt-regular";
+  src: local("bt-regular"), url("../fonts/BT/btfont_rg.ttf") format("truetype");
+}
