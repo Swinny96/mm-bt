@@ -1,12 +1,12 @@
 @font-face {
   font-family: "BT-Icons";
-  src: local("BT-Icons"), url("../fonts/BT/bt-mm-icons.ttf") format("truetype");
+  src: local("BT-Icons"), url("../fonts/bt-mm-icons.ttf") format("truetype");
 }
 @font-face {
   font-family: "bt-light";
-  src: local("bt-light"), url("../fonts/bt/btfont_lt.ttf") format("truetype");
+  src: local("bt-light"), url("../fonts/btfont_lt.ttf") format("truetype");
 }
 @font-face {
   font-family: "bt-regular";
-  src: local("bt-regular"), url("../fonts/BT/btfont_rg.ttf") format("truetype");
+  src: local("bt-regular"), url("../fonts/btfont_rg.ttf") format("truetype");
 }
