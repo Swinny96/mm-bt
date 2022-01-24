@@ -11,7 +11,6 @@
  
  import Header from "./header"
  import "./layout.css"
- import "./icon.css"
  import "./font.css"
  import Sidebar from "./sidebar"
  import Link from "./link"
