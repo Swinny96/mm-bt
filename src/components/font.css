@@ -3,10 +3,6 @@
   src: local("BT-Icons"), url("../fonts/BT/bt-mm-icons.ttf") format("truetype");
 }
 @font-face {
-  font-family: "bt-bold";
-  src: local("bt-bold"), url("../fonts/bt/btfont_bd.ttf") format("truetype");
-}
-@font-face {
   font-family: "bt-light";
   src: local("bt-light"), url("../fonts/bt/btfont_lt.ttf") format("truetype");
 }
